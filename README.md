@@ -1,8 +1,8 @@
 # Olá, eu sou o Guilherme 👋
 
-**Jogador profissional de poker, gerente de time e desenvolvedor de software.**
+**Gestão de times · Desenvolvimento de sistemas · Automação com IA**
 
-Eu gerencio jogadores, analiso números e escrevo o software que falta nessa rotina. Também construí um ecossistema pessoal em que a IA (Claude Code) organiza meu PC, consulta minhas ferramentas de trabalho, lembra das decisões entre sessões e atende por voz.
+Tenho mais de 5 anos em TI e experiência em gestão de equipe: acompanho metas e resultados, analiso números e escrevo o software que falta nessa rotina. Também construí um ecossistema pessoal em que a IA (Claude Code) organiza meu PC, consulta minhas ferramentas de trabalho, lembra das decisões entre sessões e atende por voz.
 
 ## Projetos em destaque
 
@@ -21,7 +21,7 @@ Eu gerencio jogadores, analiso números e escrevo o software que falta nessa rot
 
 ## O que eu levo para um time
 
-- **Gestão com dados:** acompanhar resultado, volume e makeup de cada jogador, e transformar isso em decisões de stake e coaching.
+- **Gestão com dados:** acompanhar resultados, metas e evolução de cada integrante, e transformar isso em decisões e planos de desenvolvimento.
 - **Automação:** se uma tarefa se repete, vira ferramenta (planilha, script, painel ou agente de IA).
 - **IA no dia a dia:** uso agentes e LLMs de forma prática e segura, com humano no controle das ações sensíveis.
 
